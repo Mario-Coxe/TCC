@@ -1,2 +1,2 @@
 # TCC
-Meu TCC do Ensino médio, curso Técnica d Informática, no colégio ASTROS DO SABER
+Meu TCC do Ensino médio, curso, Técnica De Informática, no colégio ASTROS DO SABER
